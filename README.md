@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Jazz John</h1>
 
-### :mortar_board: I'm an MCA student at [CEV](https://www.cev.ac.in/en/)
+### :mortar_board: I'm a passionate software developer(https://www.cev.ac.in/en/)
 
 
 - 🌱 I’m currently learning everything related to tech
